@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Regressão Linear"
+excerpt: "Hands-On: Algoritmo de Regressão Linear com Gradiente Descendente Para Minimizar o Erro Quadrático Médio. <br/><img src='https://i.imgur.com/ztX9n4W.png'>"
 collection: portfolio
 ---
 
