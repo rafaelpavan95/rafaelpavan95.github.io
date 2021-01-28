@@ -12,9 +12,9 @@ redirect_from:
 Educação
 ======
 
-* Bacharelado, Engenharia Elétrica, Universidade Estadual Paulista "Júlio de Mesquita Filho" [2013 - 2018]
+* **Bacharelado**, *Engenharia Elétrica*, Universidade Estadual Paulista "Júlio de Mesquita Filho" [2013 - 2018]
 
-* Mestrado, Pesquisa Operacional de Sistemas de Energia, Universidade Estadual Paulista "Júlio de Mesquita Filho" [2021 - 2023]
+* **Mestrado**, *Pesquisa Operacional de Sistemas de Energia*, Universidade Estadual Paulista "Júlio de Mesquita Filho" [2021 - 2023]
 
 
 Honras
@@ -25,11 +25,11 @@ Honras
 Experiência de Trabalho
 ======
 
-* Engenheiro Eletricista, Prefeitura de Marília [2018 - 2020]
+* **Engenheiro Eletricista**, *Prefeitura de Marília [2018 - 2020]
   
-* Estágio, Volvo Construction Equipment [2017 - 2018]
+* **Estágio**, *Volvo Construction Equipment* [2017 - 2018]
   
-Skills
+Habilidades
 ======
 
 * Python
