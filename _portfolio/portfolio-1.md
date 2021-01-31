@@ -1,6 +1,6 @@
 ---
 title: "Regressão Linear"
-excerpt: "Hands-On: Algoritmo de Regressão Linear com Gradiente Descendente Para Minimizar o Erro Quadrático Médio. <br/><img src='https://i.imgur.com/ztX9n4W.png'>"
+excerpt: "Hands-On: Algoritmo de Regressão Linear com Gradiente Descendente Para Minimizar o Erro Quadrático Médio. <br/><img src=>"
 collection: portfolio
 ---
 
