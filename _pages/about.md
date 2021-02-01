@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-MSc Student in Operational Research of Energy Systems and BSc in Electrical Engineering at ["Universidade Estadual Paulista Júlio de Mesquita Filho"](https://www2.unesp.br/).
+MSc Student in Operational Research of Energy Systems and BSc in Electrical Engineering at **[Universidade Estadual Paulista "Júlio de Mesquita Filho"](https://www2.unesp.br/)**.
 
 
 My main interests are:
