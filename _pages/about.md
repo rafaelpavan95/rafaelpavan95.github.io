@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Mestrando em Pesquisa Operacional de Sistemas de Energia e Bacharel em Engenharia Elétrica pela [Faculdade de Engenharia de Bauru](https://www.feb.unesp.br/) da ["Universidade Estadual Paulista Júlio de Mesquita Filho"](https://www2.unesp.br/).
+MSc Student in Operational Research of Energy Systems and BSc in Electrical Engineering at ["Universidade Estadual Paulista Júlio de Mesquita Filho"](https://www2.unesp.br/).
 
 
-Meus principais interesses são: 
- 
- - Engenharia;
- - Otimização Matemática;
- - Inteligência Artificial;
- - Aprendizado de Máquina;
- - Análise de Dados.
+My main interests are:
 
+- Engineering;
+- Mathematical Programming / Optimization;
+- Artificial Intelligence;
+- Machine Learning;
+- Data Mining.
 
 <!---
 ======
